@@ -1,0 +1,22 @@
+[
+  {
+    "package": "fastcox",
+    "oncran": true
+  },
+  {
+    "package": "gcdnet",
+    "oncran": true
+  },
+  {
+    "package": "gglasso",
+    "oncran": true
+  },
+  {
+    "package": "glmvsd",
+    "oncran": true
+  },
+  {
+    "package": "SOIL",
+    "oncran": true
+  }
+]

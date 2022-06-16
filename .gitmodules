@@ -3,3 +3,28 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "fastcox"]
+	path = fastcox
+	url = https://github.com/emeryyi/fastcox
+	shallow = true
+	registered = true
+[submodule "gcdnet"]
+	path = gcdnet
+	url = https://github.com/emeryyi/gcdnet
+	shallow = true
+	registered = true
+[submodule "gglasso"]
+	path = gglasso
+	url = https://github.com/emeryyi/gglasso
+	shallow = true
+	registered = true
+[submodule "glmvsd"]
+	path = glmvsd
+	url = https://github.com/emeryyi/glmvsd
+	shallow = true
+	registered = true
+[submodule "SOIL"]
+	path = SOIL
+	url = https://github.com/emeryyi/soil
+	shallow = true
+	registered = true
